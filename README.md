@@ -1,8 +1,6 @@
 # Vno - Hugo
-![VnoHugo](https://github.com/xslingcn/vno-hugo/blob/main/images/screenshot.webp?raw=true)
-![posts](https://github.com/xslingcn/vno-hugo/blob/main/images/posts.webp?raw=true)
-![dark_1](https://github.com/xslingcn/vno-hugo/blob/main/images/dark_1.webp?raw=true)
-![dark_2](https://github.com/xslingcn/vno-hugo/blob/main/images/dark_2.webp?raw=true)
+
+> NOTE: outdated
 
 Vno Hugo is a simple, responsive theme for [Hugo](https://gohugo.io/), it's a port of [onevcat](https://github.com/onevcat)'s [Vno - Jekyll](https://github.com/onevcat/vno-jekyll).
 

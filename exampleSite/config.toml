@@ -14,12 +14,12 @@ paginatePath = "page"
   [[menu.main]]
     name = "Projects"
     identifier = "projects"
-    url = "http://project.onevcat.com/"
+    url = "http://alussana.xyz/docs/resume_AlessandroLussana.pdf"
     weight = 10
  [[menu.main]]
-    name = "Tags"
-    identifier = "Tags"
-    url = "/tags/"
+    name = "CV"
+    identifier = "CV"
+    url = "/cv/"
     weight = 20
 [taxonomies]
     tag = "tags"
